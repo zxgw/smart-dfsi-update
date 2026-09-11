@@ -18,7 +18,7 @@ I designed and delivered an interactive web application that replaced this entir
 
 ## Demo
 
-🎬 [Watch the 3-minute demo video](./demo_video.mp4)
+🎬 [Watch the 3-minute demo video](./demo_video.mp4.mp4)
 
 ---
 
